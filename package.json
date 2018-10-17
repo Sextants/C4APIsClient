@@ -1,0 +1,27 @@
+{
+  "name": "c4apisclient",
+  "version": "0.0.1",
+  "description": "C4APIsClient",
+  "main": "out",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sextants/C4APIsClient.git"
+  },
+  "keywords": [
+    "C4Framework",
+    "APIsClient"
+  ],
+  "author": "Sextant",
+  "bugs": {
+    "url": "https://github.com/Sextants/C4APIsClient.git"
+  },
+  "dependencies": {
+    "c4eurekaclient": "0.0.1",
+    "c4loadbalancer": "0.0.2",
+    "c4logger": "0.0.1",
+    "c4restfulclient": "0.0.1"
+  }
+}
