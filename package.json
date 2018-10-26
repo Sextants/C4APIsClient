@@ -1,6 +1,6 @@
 {
   "name": "c4apisclient",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "C4APIsClient",
   "main": "out",
   "scripts": {
@@ -22,6 +22,6 @@
     "c4eurekaclient": "0.0.1",
     "c4loadbalancer": "0.0.2",
     "c4logger": "0.0.1",
-    "c4restfulclient": "0.0.2"
+    "c4restfulclient": "0.0.3"
   }
 }
